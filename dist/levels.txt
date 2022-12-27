@@ -1,0 +1,30 @@
+-----------------------------Level 1-----------------------------
+1-1, Block, Block, Block, Block, Block, Block, Block, Block, Block
+1-2, Block, Block, Block, Block, Block, Block, Block, Block, Block
+1-3, Block, Block, Block, Block, Block, Block, Block, Block, Block
+1-4, Block, Block, Block, Block, Block, Block, Block, Block, Block
+1-5, Block, Block, Block, Block, Block, Block, Block, Block, Block
+-----------------------------Level 2-----------------------------
+2-1, Block, Block, Block, Block, Block, Block, Block, Block, Block
+2-2, -----, Block, Block, Block, Block, Block, Block, Block, -----
+2-3, Block, Block, Block, Block, Block, Block, Block, Block, Block
+2-4, -----, Block, Block, Block, Block, Block, Block, Block, -----
+2-5, -----, -----, Block, Block, Block, Block, Block, -----, -----
+-----------------------------Level 3-----------------------------
+3-1, Block, Block, Block, Block, -----, Block, Block, Block, Block
+3-2, Block, Block, Block, Block, -----, Block, Block, Block, Block
+3-3, Block, Block, Block, Block, -----, Block, Block, Block, Block
+3-4, Block, Block, Block, -----, -----, -----, Block, Block, Block
+3-5, Block, Block, -----, -----, -----, -----, -----, Block, Block
+-----------------------------Level 4-----------------------------
+4-1, Block, Block, Block, Block, Block, Block, Block, Block, Block
+4-2, Block, Block, -----, -----, Block, -----, -----, Block, Block
+4-3, Block, -----, Block, Block, -----, Block, Block, -----, Block
+4-4, Block, -----, Block, Block, -----, Block, Block, -----, Block
+4-5, Block, Block, Block, Block, Block, Block, Block, Block, Block
+-----------------------------Level 5-----------------------------
+5-1, Block, -----, Block, -----, Block, Block, Block, -----, Block
+5-2, Block, -----, Block, -----, -----, Block, -----, -----, Block
+5-3, Block, Block, Block, -----, -----, Block, -----, -----, Block
+5-4, Block, -----, Block, -----, -----, Block, -----, -----, -----
+5-5, Block, -----, Block, -----, Block, Block, Block, -----, Block
